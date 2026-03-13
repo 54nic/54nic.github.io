@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "神秘后院"
-title_separator          : "-"
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "昵称"
+name                     : "昵称nickname"
 description              : "神秘的网站"
 url                      : "https://54nic.github.io" # the base hostname & protocol for your site e.g. "https://54nic.github.io"  
 baseurl                  : "" # the subpath of your site, e.g. ""
