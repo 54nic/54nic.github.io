@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "昵称nickname"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **sleepy** person."
+  bio              : "I am a **sleepy** person."
   location         : "Nan Jing"
   email            : "975787243@qq.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
